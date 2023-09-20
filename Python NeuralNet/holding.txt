@@ -1,0 +1,4 @@
+
+np.random.randn(...shape)
+np.asarray(...list)
+np.matmul(np.array, np.array)
