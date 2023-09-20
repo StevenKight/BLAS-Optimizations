@@ -1,0 +1,17 @@
+np.array(...list) [type]							DONE FOR 1D AND 2D (Matrix class)
+.T [transpose np.array]								DONE FOR 1D AND 2D (Matrix.T())
+.reshape(...shape) [reshapes the array to the given shape] 			
+.shape [gives the array of the shape] 						DONE (vector<int>)
+
++ [if same shapes]								DONE
+- [if same shapes]								DONE
+* [if same shapes -> element wise : if different, test in python first]		done [needs 1d to other sizes]
+/ [if same shapes -> element wise : if different, test in python first]		done [needs 1d to other sizes]
+
+np.random.randn(...shape)							DONE
+np.sum(np.array)								DONE
+np.matmul(np.array, np.array) [Standard matrix multiplication]			
+np.mean(np.array)								DONE
+np.argmax(np.array, axis=...flatten) [given axis, if none -> flatten first]	DONE
+
+^ Optimize all ^
